@@ -10,8 +10,6 @@ import pandas as pd
 import jpype
 import asposecells
 
-#Enova@18
-
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--headless=new')
 chrome_options.add_argument('--no-sandbox')
