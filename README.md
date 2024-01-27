@@ -8,7 +8,7 @@
 Eu sou Gustavo, Um apaixonado pela área de Dados que gosta muito de Tecnologia. Atualmente, estou aprimorando minhas habilidades em Business Intelligence.
 
 ## Projetos
-- [Dash Board Power BI] (https://bit.ly/3vQTR1J)
+- [Dash Board Power BI] (https://bit.ly/3SwWn6i)
 - [Git Hub Repositories] (https://github.com/MrZalim?tab=repositories)
 
 
